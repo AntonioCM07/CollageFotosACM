@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface_background">#F7F7FB</color>
+    <color name="text_primary">#20212A</color>
+    <color name="text_secondary">#646575</color>
+    <color name="photo_frame">#FFFFFF</color>
+    <color name="photo_border">#D9D9E2</color>
+    <color name="photo_placeholder">#E8E8EF</color>
+    <color name="selection">#6750A4</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/photoFrame"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/photo_frame_normal"
+    android:padding="3dp">
+
+    <ImageView
+        android:id="@+id/photoImage"
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:background="@color/photo_placeholder"
+        android:contentDescription="@string/photo_content_description"
+        android:scaleType="centerCrop" />
+</FrameLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhotoCollage</string>
+    <string name="empty_collage">El collage está vacío.\nAñade fotos para empezar.</string>
+    <string name="action_add">Añadir fotos</string>
+    <string name="action_delete_selected">Eliminar seleccionada</string>
+    <string name="action_clear_all">Vaciar todo</string>
+    <string name="action_grayscale">Blanco y negro</string>
+    <string name="action_sepia">Sepia</string>
+    <string name="action_reset">Restaurar original</string>
+    <string name="action_rotate">Rotar 90°</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_columns_2">2 columnas</string>
+    <string name="action_columns_3">3 columnas</string>
+    <string name="label_brightness">Brillo: %1$d</string>
+    <string name="label_saturation">Saturación: %1$d%%</string>
+    <string name="photo_content_description">Foto del collage</string>
+    <string name="no_selection">Selecciona una foto para editarla.</string>
+    <string name="no_photos">Añade alguna foto antes de continuar.</string>
+    <string name="duplicate_photos">Se omitieron %1$d foto(s) duplicada(s).</string>
+    <string name="nothing_added">No se añadieron fotos nuevas.</string>
+    <string name="photos_added">Se añadieron %1$d foto(s).</string>
+    <string name="photos_skipped_memory">Se omitieron %1$d foto(s) para mantener un uso de memoria seguro.</string>
+    <string name="photo_load_error">No se pudieron cargar %1$d foto(s).</string>
+    <string name="confirm_clear_title">Vaciar collage</string>
+    <string name="confirm_clear_message">¿Quieres quitar todas las fotos del collage?</string>
+    <string name="confirm_clear">Vaciar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="photo_deleted">Foto eliminada.</string>
+    <string name="collage_cleared">Collage vaciado.</string>
+    <string name="share_chooser_title">Compartir collage</string>
+    <string name="share_error">No se pudo preparar el collage para compartir.</string>
+    <string name="save_success">Collage guardado en la galería.</string>
+    <string name="save_error">No se pudo guardar el collage.</string>
+    <string name="edit_error">No se pudo procesar la imagen.</string>
+</resources>
